@@ -5,7 +5,7 @@ La Escuela Municipal de Música y Danza María Dolores Pradera ofrece el program
 
 ## Sonología y Proyectos 
 
-### Bloque 1. 
+### Bloque 1. La grabadora como recurso de creación sonora
 Curso 1º. Primer Trimestre
 **Marco teórico**
 - Imaginarios sonoros basados en grabaciones, creación de paletas de sonidos en una composición.
