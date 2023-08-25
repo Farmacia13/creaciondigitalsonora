@@ -7,6 +7,7 @@ La Escuela Municipal de Música y Danza María Dolores Pradera ofrece el program
 
 ### Bloque 1. La grabadora como recurso de creación sonora
 Curso 1º. Primer Trimestre
+
 **Marco teórico**
 - Imaginarios sonoros basados en grabaciones, creación de paletas de sonidos en una composición.
 - El paisaje sonoro como material documental VS material estético.
@@ -19,11 +20,32 @@ Curso 1º. Primer Trimestre
 
 **Evaluación**
 - Grabación de un paisaje sonoro site specific sin procesado
-- Composición de una pieza con intención estética a partir de grabaciones modificadas.</li></ul>
+- Composición de una pieza con intención estética a partir de grabaciones modificadas.
 
-### Bloque 2. 
+### BLOQUE 2. Los sonidos electrónicos
 Curso 1º. Segundo Trimestre
 
+**Marco teórico**
+- Desde los futuristas italianos, hasta la música algorítmica aplicada a la creación sonora.
+- Música electrónica desde los 70 hasta la actualidad.
+  
+**Marco práctico** 
+- Introducción al VCV Rack.
+- Introducción a la síntesis de sonidos electrónicos.
+
+**Evaluación**
+- Creación de una pieza electroacústica mixta: con grabaciones y sonidos electrónicos.
 
 ### Bloque 3.
 Curso 1º. Tercer Trimestre
+
+**Marco teórico**
+- Creación asistida por ordenador
+- Fundamentos de programación informática con Ableton Live y Max/msp
+
+**Marco práctico** 
+- Envolventes y Patrones
+- Organización del material sonoro para el directo A/V.
+
+**Evaluación**
+- Creación de una pieza sonora y presentarla en directo.
