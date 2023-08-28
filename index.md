@@ -17,7 +17,7 @@ Curso 1º. Primer Trimestre
 - Recoger sonidos del entorno: desde los sonidos ambientales hasta los sonidos concretos.
 - Uso de microfonía alternativa: micrófonos de contacto, electromagnéticos, hidrófonos o binaurales.
 - Ejercicios simples de composición electroacústica.
-- Introducción al DAW de Ableton.
+- Técnicas de edición y manipulación de audio. 
 
 **Evaluación**
 - Grabación de un paisaje sonoro site specific sin procesado de audio.
@@ -27,21 +27,23 @@ Curso 1º. Primer Trimestre
 Curso 1º. Segundo Trimestre
 
 **Marco teórico**
-- Desde los futuristas italianos, hasta la música algorítmica aplicada a la creación sonora.
-- Música electrónica desde los 70 hasta la actualidad.
+- Desde los futuristas italianos, hasta la música electrónica de baile.
+- Introducción a la síntesis de sonido electrónico: formas de ondas y técnicas básicas de síntesis electrónica.
   
 **Marco práctico** 
 - Introducción al VCV Rack.
-- Introducción a la síntesis de sonidos electrónicos.
+- Ejercicios de síntesis aditiva, substractiva, síntesis por modulación y ruido.
+- Aplicar los ejercicios de síntesis electrónica a instrumentos analógicos.
 
 **Evaluación**
 - Creación de una pieza electroacústica mixta: con grabaciones y sonidos electrónicos.
+- Improvisar composiciones sencillas con instrumentos analógicos.
 
 ### BLOQUE 3. El ordenador como herramienta para el directo
 Curso 1º. Tercer Trimestre
 
 **Marco teórico**
-- Creación asistida por ordenador
+- Creación asistida por ordenador. Efectos de sonidos y entrada de audio. 
 - Fundamentos de programación informática con Ableton Live y Max/msp
 
 **Marco práctico** 
