@@ -15,11 +15,12 @@ Curso 1º. Primer Trimestre
 
 **Marco práctico** 
 - Recoger sonidos del entorno: desde los sonidos ambientales hasta los sonidos concretos.
-- Uso de microfonía alternativa: micrófonos de contacto, electromagnéticos, transductores, hidrófonos o binaurales.
+- Uso de microfonía alternativa: micrófonos de contacto, electromagnéticos, hidrófonos o binaurales.
+- Ejercicios simples de composición electroacústica.
 - Introducción al DAW de Ableton.
 
 **Evaluación**
-- Grabación de un paisaje sonoro site specific sin procesado
+- Grabación de un paisaje sonoro site specific sin procesado de audio.
 - Composición de una pieza con intención estética a partir de grabaciones modificadas.
 
 ### BLOQUE 2. Los sonidos electrónicos
