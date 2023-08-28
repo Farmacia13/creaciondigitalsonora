@@ -17,7 +17,7 @@ Curso 1º. Primer Trimestre
 - Recoger sonidos del entorno: desde los sonidos ambientales hasta los sonidos concretos.
 - Uso de microfonía alternativa: micrófonos de contacto, electromagnéticos, hidrófonos o binaurales.
 - Ejercicios simples de composición electroacústica.
-- Técnicas de edición y manipulación de audio. 
+- Técnicas de edición y manipulación de audio con Ableton Live.
 
 **Evaluación**
 - Grabación de un paisaje sonoro site specific sin procesado de audio.
@@ -43,11 +43,12 @@ Curso 1º. Segundo Trimestre
 Curso 1º. Tercer Trimestre
 
 **Marco teórico**
-- Creación asistida por ordenador. Efectos de sonidos y entrada de audio. 
-- Fundamentos de programación informática con Ableton Live y Max/msp
+- Creación sonora asistida por ordenador: MIDI, sincronización de sistemas y live electronics.
+- Fundamentos de programación informática y live coding. 
 
 **Marco práctico** 
-- Envolventes y Patrones
+- Ejercicios sencillos de creación sonora en directo con Ableton Live.
+- Programación de controladoras MIDI.
 - Organización del material sonoro para el directo A/V.
 
 **Evaluación**
