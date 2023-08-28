@@ -52,7 +52,7 @@ Curso 1º. Tercer Trimestre
 - Organización del material sonoro para el directo A/V.
 
 **Evaluación**
-- Creación de una pieza sonora y presentarla en directo.
+- Creación de una pieza sonora y presentarla en directo con los recursos técnicos que el alumnado decida.
 
 ### BLOQUE 4. 
 Curso 2º. Primer Trimestre
