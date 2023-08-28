@@ -53,3 +53,40 @@ Curso 1º. Tercer Trimestre
 
 **Evaluación**
 - Creación de una pieza sonora y presentarla en directo.
+
+### BLOQUE 4. 
+Curso 2º. Primer Trimestre
+
+**Marco teórico**
+- 
+
+**Marco práctico** 
+- 
+
+**Evaluación**
+- 
+
+### BLOQUE 5.
+Curso 2º. Segundo Trimestre
+
+**Marco teórico**
+- 
+  
+**Marco práctico** 
+- 
+
+**Evaluación**
+- 
+
+### BLOQUE 6. 
+Curso 2º. Tercer Trimestre
+
+**Marco teórico**
+-  
+
+**Marco práctico** 
+- 
+
+**Evaluación**
+- 
+
