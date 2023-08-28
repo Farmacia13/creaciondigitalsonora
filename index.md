@@ -98,3 +98,24 @@ Curso 2º. Tercer Trimestre
 **Evaluación**
 - Proyecto personal individual.
 
+## Agrupación
+
+** Orquesta de oscialores en formato Laptop Orquesta **
+
+** Diseño e interpretación de una partitura gráfica **
+
+** Creación colectiva de una pieza con otra agrupación de la escuela **
+
+** Creación de un proyecto sonoro para Danza Contemporánea **
+
+## Proyectos
+
+Los proyectos son bloques temáticos independientes que se realizan en la escuela regularmente pero necesariamente con una periodicidad anual. Vienen motivados por contenidos transversales y aprovechan circunstacias de la vida de la escuela y de la ciudad para aprovechar mejor los recursos. Se trata de actividades prácticas. Pasamos a describir algunos de los proyectos realizados hasta la fecha.
+
+### Espacialización y multicanal.
+
+### Instalaciones sonoras.
+
+### Live coding.
+
+### Live Electronics.
