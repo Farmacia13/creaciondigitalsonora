@@ -55,7 +55,7 @@ Curso 1º. Tercer Trimestre
 **Evaluación**
 - Creación de una pieza sonora y presentarla en directo con los recursos técnicos que el alumnado decida.
 
-### BLOQUE 4. 
+### BLOQUE 4. El sonido digital.
 Curso 2º. Primer Trimestre
 
 **Marco teórico**
@@ -70,7 +70,7 @@ Curso 2º. Primer Trimestre
 **Evaluación**
 - Diseño y creación de un instrumento para improvisar basado en grabaciones.
 
-### BLOQUE 5.
+### BLOQUE 5. Otras exploraciones del Timbre.
 Curso 2º. Segundo Trimestre
 
 **Marco teórico**
@@ -86,11 +86,11 @@ Curso 2º. Segundo Trimestre
 **Evaluación**
 - Elaboración de una pieza mixta, experimental libre con las herramientas y técnicas dadas.
 
-### BLOQUE 6. 
+### BLOQUE 6. Proyecto Final.
 Curso 2º. Tercer Trimestre
 
 **Marco teórico**
-- Investigación artística sobre el proyecto personal individual sonoro a partir de una propuesta de la escuela.
+- Investigación artística sobre el proyecto sonoro final a partir de una propuesta de la escuela.
 
 **Marco práctico** 
 - Tutorías regulares sobre el proyecto individual.
