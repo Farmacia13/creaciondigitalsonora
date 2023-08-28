@@ -29,6 +29,7 @@ Curso 1º. Segundo Trimestre
 **Marco teórico**
 - Desde los futuristas italianos, hasta la música electrónica de baile.
 - Introducción a la síntesis de sonido electrónico: formas de ondas y técnicas básicas de síntesis electrónica.
+- Técnicas de composición minimalistas.
   
 **Marco práctico** 
 - Introducción al VCV Rack.
@@ -58,35 +59,42 @@ Curso 1º. Tercer Trimestre
 Curso 2º. Primer Trimestre
 
 **Marco teórico**
-- 
+- El sonido digital: Muestreo de sonido, profundidad de bits, buffers, procesado de sonido digital.
+- Técnicas de creación de naturaleza digital: síntesis granular, data bending, estética 8-bits, glitch.
+- Técnicas de composición orientadas a texturas.
 
 **Marco práctico** 
-- 
+- Introducción a Supercollider: Sintáxis básica, PlayBuffer, Señales de control (UGens).
+- Ejercicios de síntesis granular con Supercollider y MaxforLive.
 
 **Evaluación**
-- 
+- Diseño y creación de un instrumento para improvisar basado en grabaciones.
 
 ### BLOQUE 5.
 Curso 2º. Segundo Trimestre
 
 **Marco teórico**
-- 
+- Repaso de las técnicas de síntesis sonora analógica del curso pasado.
+- Ampliación a técnicas más avanzadas como: Wavetable, waveshaping, physical modeling.
+- Procesado de audio con el software Cecilia.
+- Técnicas de composición orientada a timbre: espectral y saturacionismo.
   
 **Marco práctico** 
-- 
+- Supercollider: UGens generadores de audio, SynthDefs y técnicas de síntesis de sonido digital.
+- Ejercicios de composición.
 
 **Evaluación**
-- 
+- Elaboración de una pieza mixta, experimental libre con las herramientas y técnicas dadas.
 
 ### BLOQUE 6. 
 Curso 2º. Tercer Trimestre
 
 **Marco teórico**
--  
+- Investigación artística sobre el proyecto personal individual sonoro a partir de una propuesta de la escuela.
 
 **Marco práctico** 
-- 
+- Tutorías regulares sobre el proyecto individual.
 
 **Evaluación**
-- 
+- Proyecto personal individual.
 
