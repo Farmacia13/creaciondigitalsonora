@@ -141,7 +141,20 @@ En ocasiones es interesante poner el foco en la técnica del live electronics y 
 
 ## Bibliografía relacionada
 
+### En castellano
 
+* Conferencias sobre arte sonoro. José Igés. Árdora Ediciones. 2016.
+* El ruido eterno: Escuchar al siglo XX a través de su música. Alex Ross. Seix Barral. 2009.
+* Enseñanza y Aprendizaje de la improvisación libre: Propuestas y Reflexiones. Chefa Alonso. 2014.
+* El paisaje sonoro y la afinación del mundo. R. Murray Schafer. Editorial Intermedio. 2013.
+* El instrumento musical: Evolución, gestos y reflexiones. Wade Matthews. Turner Música. 2022.
+
+### En inglés
+
+* Sonic Art: An introduction to Electroacustic Music Composition. Adrian Moore. Routledge. 2016.
+* Audio Culture: Readings in Modern Music. Edited by Christoph Cox and Daniel Warner. Bloomsbury. 2017.
+* Introduction to Supercollider. Andrea Valle. Logos Verlag. 2016.
+* Sonic Writing: technologies of material, symbolic and signal inscriptions. Thor Margnusson. Bloomsbury. 2019.
 
 ## Enlaces de interés
 
