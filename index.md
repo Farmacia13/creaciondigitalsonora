@@ -100,13 +100,20 @@ Curso 2º. Tercer Trimestre
 
 ## Agrupación
 
-** Orquesta de oscialores en formato Laptop Orquesta **
+La agrupación es una asignatura que acompaña durante todo el itinerario de Sonología. Es una asignatura fundamental en las escuelas municipales que tienen como objetivo la creación de estas agrupaciones para dinamizar el entorno donde se encuentra la escuela. Esta asignatura, por lo tanto, difiere de la anterior en que se promueve la interpretación sonora colectiva y no el trabajo individual. 
 
-** Diseño e interpretación de una partitura gráfica **
+**Orquesta de oscialores o formato Laptop Orquesta**
 
-** Creación colectiva de una pieza con otra agrupación de la escuela **
+La orquesta de osciladores es un formato colectivo de interpretación sonora con ordenadores con la particularidad de que el sonido se distribuye a través de un altavoz por cada participante, en lugar de reproducir el sonido a través de un sistema de amplificación, generalmente estéreo. Este sistema requiere de que cada integrante de la orquesta escuche y ajuste su volumen al resto de la orquesta para tratar de ofrecer un sonido lo más compacto posible, del mismo modo que sucede en las orquestas y agrupaciones instrumentales tradicionales. 
+El repertorio se suele crear de manera colectiva y consensuada y las performances se adaptan a los espacios donde se lleven a cabo los conciertos. Cada integrante puede usar cualquier instrumento que considere interesante con o sin ordenador.
 
-** Creación de un proyecto sonoro para Danza Contemporánea **
+**Diseño e interpretación de una partitura gráfica**
+
+La representación gráfica del sonido es un área muy prolífica en el ámbito de la creación sonora experimental, siendo posible desde delimitar muy concretamente qué sonido se reproduce en una pieza en un determinado momento como la posibilidad de dejar abiertas características, matices, timbres, etc.. dejando espacio a la improvisación. Es una actividad también recurrente de la agrupación de sonología de la escuela diseñar y/o interpretar partituras gráficas con música electrónica. 
+
+**Creación colectiva de una pieza con otra agrupación de la escuela**
+
+**Creación de un proyecto sonoro para Danza Contemporánea**
 
 ## Proyectos
 
