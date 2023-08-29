@@ -98,7 +98,7 @@ Curso 2º. Tercer Trimestre
 **Evaluación**
 - Proyecto personal individual.
 
-## Agrupación
+## Asignatura de Agrupación
 
 La agrupación es una asignatura que acompaña durante todo el itinerario de Sonología. Es una asignatura fundamental en las escuelas municipales que tienen como objetivo la creación de estas agrupaciones para dinamizar el entorno donde se encuentra la escuela. Esta asignatura, por lo tanto, difiere de la anterior en que se promueve la interpretación sonora colectiva y no el trabajo individual. 
 
@@ -113,15 +113,23 @@ La representación gráfica del sonido es un área muy prolífica en el ámbito 
 
 **Creación colectiva de una pieza con otra agrupación de la escuela**
 
+Bien con un ensemble de cuerdas, con uno de los coros de la escuela, con una agrupación de vientos, o con diferente alumnado interesado y voluntario de la escuela, la agrupación de sonología puede crear una pieza colectiva en colaboración con otro alumnado. Generalmente estos proyectos involucran procesado de audio a tiempo real y es por eso que suelen realizarse en el segundo curso. 
+
 **Creación de un proyecto sonoro para Danza Contemporánea**
 
-## Proyectos
+Del mismo modo que se puede trabajar con otros instrumentistas también es posible la creación sonora de una pieza para danza, generalmente danza contemporánea, donde están involucradas también técnicas de interacción con el sonido como pueden ser sensores, micros de contacto, cámaras, proyecciones, etc. Tambiés suele realizarse con alumnado de sonología de segundo curso.
 
-Los proyectos son bloques temáticos independientes que se realizan en la escuela regularmente pero necesariamente con una periodicidad anual. Vienen motivados por contenidos transversales y aprovechan circunstacias de la vida de la escuela y de la ciudad para aprovechar mejor los recursos. Se trata de actividades prácticas. Pasamos a describir algunos de los proyectos realizados hasta la fecha.
+## Proyectos esporádicos
+
+Los proyectos son bloques temáticos independientes que se realizan en la escuela regularmente pero necesariamente con una periodicidad anual. Vienen motivados por contenidos transversales y aprovechan circunstacias de la vida de la escuela y de la ciudad para aprovechar mejor los recursos. Se trata de actividades prácticas que no necesitan realizarse de forma colectiva. Pasamos a describir algunos de los proyectos realizados hasta la fecha.
 
 ### Espacialización y multicanal.
 
+La espacialización del sonido ya sea en la fase de producción a través de técnicas binaurales o a través de un sistema multicanal de altavoces, la espacialización es una parte muy interesante de la puesta en escena de una pieza de música para altavoces. Hasta ahora se ha trabajado con sistemas 8.1 que se montan y permanecen disponibles durante dos o tres meses. 
+
 ### Instalaciones sonoras.
+
+
 
 ### Live coding.
 
