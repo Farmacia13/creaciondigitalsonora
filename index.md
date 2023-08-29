@@ -1,7 +1,7 @@
 # Creación Digital Sonora y Nuevas Músicas
 Web del programa de la asignatura en la EMMyD María Dolores Pradera
 
-La Escuela Municipal de Música y Danza María Dolores Pradera ofrece el programa de *Creación Digital Sonora* que comprende dos itinerarios: *Sonología y Proyectos* para alumnado adulto y *Sonotrónica y laboratorio* para el alumnado a partir de 8 años de edad. Pasamos a describir cada una de las asignaturas que conforman estos itinerarios tal y como se imparten en la EMMyD María Dolores Pradera. Esta información no es oficial y para cualquier consulta debe dirigirse a la Secretaría de la escuela. 
+La Escuela Municipal de Música y Danza María Dolores Pradera ofrece el programa de *Creación Digital Sonora* que comprende dos itinerarios: *Sonología y Proyectos* para alumnado adulto (y *Sonotrónica y laboratorio* para el alumnado a partir de 8 años de edad). Pasamos a describir cada una de las asignaturas que conforman este itinerarios tal y como se imparten en la EMMyD María Dolores Pradera. Esta información no es oficial y para cualquier consulta debe dirigirse a la Secretaría de la escuela. 
 
 ## Asignatura de Sonología
 
