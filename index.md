@@ -145,5 +145,5 @@ En ocasiones es interesante poner el foco en la técnica del live electronics y 
 
 ## Enlaces de interés
 
-- (Bandcamp de Sonología y Proyectos)[https://creaciondigitalsonora.bandcamp.com/]
-- (Canal de Vimeo de la escuela)[https://vimeo.com/user129141817] 
+- [Bandcamp de Sonología y Proyectos](https://creaciondigitalsonora.bandcamp.com/)
+- [Canal de Vimeo de la escuela](https://vimeo.com/user129141817)
