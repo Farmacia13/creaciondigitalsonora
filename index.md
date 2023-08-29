@@ -139,8 +139,11 @@ La técnica del live coding se refiere a la creación sonora a partir de código
 
 En ocasiones es interesante poner el foco en la técnica del live electronics y el procesado de sonido a tiempo real como parte del repertorio histórico fundamental de la música experimental o contemporánea. Estos proyectos suelen involucrar la participación de otro alumnado de la escuela. 
 
-## Bibliografía básica
+## Bibliografía relacionada
 
 
 
 ## Enlaces de interés
+
+- (Bandcamp de Sonología y Proyectos)[https://creaciondigitalsonora.bandcamp.com/]
+- (Canal de Vimeo de la escuela)[https://vimeo.com/user129141817] 
