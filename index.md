@@ -113,13 +113,13 @@ La representación gráfica del sonido es un área muy prolífica en el ámbito 
 
 **Creación colectiva de una pieza con otra agrupación de la escuela**
 
-Bien con un ensemble de cuerdas, con uno de los coros de la escuela, con una agrupación de vientos, o con diferente alumnado interesado y voluntario de la escuela, la agrupación de sonología puede crear una pieza colectiva en colaboración con otro alumnado. Generalmente estos proyectos involucran procesado de audio a tiempo real y es por eso que suelen realizarse en el segundo curso. 
+Bien con un ensemble de cuerdas, con uno de los coros de la escuela, con una agrupación de vientos, o con diferente alumnado interesado y voluntario de la escuela, la agrupación de Sonología puede crear una pieza colectiva en colaboración con otro alumnado. Generalmente estos proyectos involucran procesado de audio a tiempo real y es por eso que suelen realizarse en el segundo curso. 
 
 **Creación de un proyecto sonoro para Danza Contemporánea**
 
-Del mismo modo que se puede trabajar con otros instrumentistas también es posible la creación sonora de una pieza para danza, generalmente danza contemporánea, donde están involucradas también técnicas de interacción con el sonido como pueden ser sensores, micros de contacto, cámaras, proyecciones, etc. Tambiés suele realizarse con alumnado de sonología de segundo curso.
+Del mismo modo que se puede trabajar con otros instrumentistas también es posible la creación sonora de una pieza para danza, generalmente danza contemporánea, donde están involucradas también técnicas de interacción con el sonido como pueden ser sensores, micros de contacto, cámaras, proyecciones, etc. Tambiés suele realizarse con alumnado de Sonología de segundo curso.
 
-## Proyectos esporádicos
+## Proyectos complementarios
 
 Los proyectos son bloques temáticos independientes que se realizan en la escuela regularmente pero necesariamente con una periodicidad anual. Vienen motivados por contenidos transversales y aprovechan circunstacias de la vida de la escuela y de la ciudad para aprovechar mejor los recursos. Se trata de actividades prácticas que no necesitan realizarse de forma colectiva. Pasamos a describir algunos de los proyectos realizados hasta la fecha.
 
@@ -129,8 +129,18 @@ La espacialización del sonido ya sea en la fase de producción a través de té
 
 ### Instalaciones sonoras.
 
-
+Otro posible proyecto independiente del programa de Sonología es la instalación de un setup determinado sobre el que presentar piezas sonoras en formato de instalación. A diferencia del formato concierto, las instalaciones no suelen regirse por una temporalidad determinada. A partir de una propuesta artística es la persona visitante de la instalación la que decide qué escuchar y cuánto escuchar en función de las decisiones que toma. Las instalaciones sonoras pueden ser también interactivas. 
 
 ### Live coding.
 
+La técnica del live coding se refiere a la creación sonora a partir de código informático programado en directo. Nuestra escuela fue parte de la cuarta conferencia internacional de live coding en el 2019 y de vez en cuando organiza Algoraves de live coding donde puede participar también el alumnado.
+
 ### Live Electronics.
+
+En ocasiones es interesante poner el foco en la técnica del live electronics y el procesado de sonido a tiempo real como parte del repertorio histórico fundamental de la música experimental o contemporánea. Estos proyectos suelen involucrar la participación de otro alumnado de la escuela. 
+
+## Bibliografía básica
+
+
+
+## Enlaces de interés
