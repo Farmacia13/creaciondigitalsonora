@@ -16,7 +16,7 @@ Curso 1º. Primer Trimestre
 **Marco práctico** 
 - Recoger sonidos del entorno: desde los sonidos ambientales hasta los sonidos concretos.
 - Uso de microfonía alternativa: micrófonos de contacto, electromagnéticos, hidrófonos o binaurales.
-- Ejercicios simples de composición electroacústica.
+- Ejercicios de composición electroacústica.
 - Técnicas de edición y manipulación de audio con Ableton Live.
 
 **Evaluación**
@@ -48,7 +48,7 @@ Curso 1º. Tercer Trimestre
 - Fundamentos de programación informática y live coding. 
 
 **Marco práctico** 
-- Ejercicios sencillos de creación sonora en directo con Ableton Live.
+- Ejercicios de creación sonora en directo con Ableton Live.
 - Programación de controladoras MIDI.
 - Organización del material sonoro para el directo A/V.
 
@@ -81,7 +81,7 @@ Curso 2º. Segundo Trimestre
   
 **Marco práctico** 
 - Supercollider: UGens generadores de audio, SynthDefs y técnicas de síntesis de sonido digital.
-- Ejercicios de composición.
+- Ejercicios de composición con código en Supercollider.
 
 **Evaluación**
 - Elaboración de una pieza mixta, experimental libre con las herramientas y técnicas dadas.
