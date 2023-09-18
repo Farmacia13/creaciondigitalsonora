@@ -150,12 +150,17 @@ En ocasiones es interesante poner el foco en la técnica del live electronics y 
 | 1 | Sampler | Korg Volca Sampler |
 | 1 | Sintetizador | Behringer Modular |
 | 1 | Sintetizdor  | Befaco Modular |
+| 1 | Sintetizador | Moog Werkstatt |
 | 1 | Secuenciador | Arturia Beatsteap Pro |
 | 1 | Caja de ritmos | Arturia Drumbrute |
 | - | Micrófonos de contacto | Varias marcas y modelos |
 | 1 | Hidrófono | Aquarian |
 | - | Grabadoras | Zoom |
 | 1 | Sistema electroacústico | Koma Electronik Field Kit |  
+| 1 | Batería electrónica | Roland Octapad |
+| 1 | Baería Midi | Millenium |
+| 1 | Loopeadora | Electro Harmonix |
+| - | Pedaleras | Varia marcas y modelos |
 
 ## Bibliografía relacionada
 
