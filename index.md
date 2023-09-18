@@ -139,6 +139,10 @@ La técnica del live coding se refiere a la creación sonora a partir de código
 
 En ocasiones es interesante poner el foco en la técnica del live electronics y el procesado de sonido a tiempo real como parte del repertorio histórico fundamental de la música experimental o contemporánea. Estos proyectos suelen involucrar la participación de otro alumnado de la escuela. 
 
+**Hardware sonoro**
+
+Aunque el ordenador es la principal herramienta de uso en la creación sonora, en realidad desde antes de la llegada del ordenador se han usado circuitos, circuitos integrados y/o microprocesadores programables para la creación sonora, el arte sonoro, las instalaciones. Este bloque temático pretende introducir al alumnado a este tipo de programación de hardware desde el oscilador más básico a la programación de placas como Arduino. 
+
 ## Inventario
 
 | Número | Ítem | Nombre |
