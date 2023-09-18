@@ -139,6 +139,24 @@ La técnica del live coding se refiere a la creación sonora a partir de código
 
 En ocasiones es interesante poner el foco en la técnica del live electronics y el procesado de sonido a tiempo real como parte del repertorio histórico fundamental de la música experimental o contemporánea. Estos proyectos suelen involucrar la participación de otro alumnado de la escuela. 
 
+## Inventario
+
+| Número | Ítem | Nombre |
+|--------|------|--------|
+| 1 | Sintetizador | Behringer Neutron |
+| 1 | Sintetizador | Korg MS-20 Mini |
+| 1 | Sintetizador | Arturia Microfreak |
+| 1 | Sintetizador | Arturia Microbrute |
+| 1 | Sampler | Korg Volca Sampler |
+| 1 | Sintetizador | Behringer Modular |
+| 1 | Sintetizdor  | Befaco Modular |
+| 1 | Secuenciador | Arturia Beatsteap Pro |
+| 1 | Caja de ritmos | Arturia Drumbrute |
+| - | Micrófonos de contacto | Varias marcas y modelos |
+| 1 | Hidrófono | Aquarian |
+| - | Grabadoras | Zoom |
+| 1 | Sistema electroacústico | Koma Electronik Field Kit |  
+
 ## Bibliografía relacionada
 
 ### En castellano
