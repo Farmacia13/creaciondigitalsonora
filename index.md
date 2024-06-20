@@ -37,7 +37,7 @@ Curso 1º. Segundo Trimestre
 - Aplicar los ejercicios de síntesis electrónica a instrumentos analógicos.
 
 **Evaluación**
-- Creación colectiva a partir de una partitura gráfica que aúne los contenidos de los dos bloques.
+- Asignatura Agrupación: Creación colectiva a partir de una partitura gráfica que aúne los contenidos de los dos bloques.
 
 ### BLOQUE 3. El ordenador como herramienta para el directo
 Curso 1º. Tercer Trimestre
@@ -102,7 +102,7 @@ Curso 2º. Tercer Trimestre
 
 La agrupación es una asignatura que acompaña durante todo el itinerario de Sonología. Es una asignatura fundamental en las escuelas municipales que tienen como objetivo la creación de estas agrupaciones para dinamizar el entorno donde se encuentra la escuela. Esta asignatura, por lo tanto, difiere de la anterior en que se promueve la interpretación sonora colectiva y no el trabajo individual. 
 
-**Orquesta de oscialores o formato Laptop Orquesta**
+**Orquesta de osciladores o formato Laptop Orquesta**
 
 La orquesta de osciladores es un formato colectivo de interpretación sonora con ordenadores con la particularidad de que el sonido se distribuye a través de un altavoz por cada participante, en lugar de reproducir el sonido a través de un sistema de amplificación, generalmente estéreo. Este sistema requiere de que cada integrante de la orquesta escuche y ajuste su volumen al resto de la orquesta para tratar de ofrecer un sonido lo más compacto posible, del mismo modo que sucede en las orquestas y agrupaciones instrumentales tradicionales. 
 El repertorio se suele crear de manera colectiva y consensuada y las performances se adaptan a los espacios donde se lleven a cabo los conciertos. Cada integrante puede usar cualquier instrumento que considere interesante con o sin ordenador.
