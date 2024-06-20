@@ -48,7 +48,7 @@ Curso 1º. Tercer Trimestre
 
 **Marco práctico** 
 - Ejercicios de síntesis avanzada con modulación FM, AM, RM. 
-- Ejercicios de secuenciación generativos: IDM.
+- Ejercicios de secuenciación generativos: IDM. MIDI.
 
 **Evaluación**
 - Creación de una pieza electroacústica mixta: con grabaciones y sonidos electrónicos.
