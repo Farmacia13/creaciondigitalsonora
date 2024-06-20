@@ -27,13 +27,13 @@ Curso 1º. Primer Trimestre
 Curso 1º. Segundo Trimestre
 
 **Marco teórico**
-- Desde los futuristas italianos, hasta la música electrónica de baile.
+- Desde los futuristas a los pioneros de la música electrónica experimental.
 - Introducción a la síntesis de sonido electrónico: formas de ondas y técnicas básicas de síntesis electrónica.
-- Técnicas de composición minimalistas.
+- Técnicas de composición: drone, noise, y electronica minimal.
   
 **Marco práctico** 
 - Introducción al VCV Rack.
-- Ejercicios de síntesis aditiva, substractiva, síntesis por modulación y ruido.
+- Ejercicios de síntesis aditiva, substractiva con Synthorial.
 - Aplicar los ejercicios de síntesis electrónica a instrumentos analógicos.
 
 **Evaluación**
