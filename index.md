@@ -29,16 +29,15 @@ Curso 1º. Segundo Trimestre
 **Marco teórico**
 - Desde los futuristas a los pioneros de la música electrónica experimental.
 - Introducción a la síntesis de sonido electrónico: formas de ondas y técnicas básicas de síntesis electrónica.
-- Técnicas de composición: drone, noise, y electronica minimal.
+- Técnicas de composición drone y ambient.
   
 **Marco práctico** 
 - Introducción al VCV Rack.
-- Ejercicios de síntesis aditiva, substractiva con Synthorial.
+- Ejercicios de síntesis aditiva y substractiva con Synthorial.
 - Aplicar los ejercicios de síntesis electrónica a instrumentos analógicos.
 
 **Evaluación**
-- Creación de una pieza electroacústica mixta: con grabaciones y sonidos electrónicos.
-- Improvisar composiciones sencillas con instrumentos analógicos.
+- Creación colectiva a partir de una partitura gráfica que aúne los contenidos de los dos bloques.
 
 ### BLOQUE 3. El ordenador como herramienta para el directo
 Curso 1º. Tercer Trimestre
@@ -53,7 +52,8 @@ Curso 1º. Tercer Trimestre
 - Organización del material sonoro para el directo A/V.
 
 **Evaluación**
-- Creación de una pieza sonora y presentarla en directo con los recursos técnicos que el alumnado decida.
+- Creación de una pieza electroacústica mixta: con grabaciones y sonidos electrónicos.
+- Improvisar composiciones sencillas con instrumentos analógicos.
 
 ### BLOQUE 4. El sonido digital.
 Curso 2º. Primer Trimestre
