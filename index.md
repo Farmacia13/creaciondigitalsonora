@@ -23,11 +23,11 @@ Curso 1º. Primer Trimestre
 - Grabación de un paisaje sonoro site specific sin procesado de audio.
 - Composición de una pieza con intención estética a partir de grabaciones modificadas.
 
-### BLOQUE 2. Los sonidos electrónicos
+### BLOQUE 2. La electrónica como instrumento.
 Curso 1º. Segundo Trimestre
 
 **Marco teórico**
-- Desde los futuristas a los pioneros de la música electrónica experimental.
+- Desde los futuristas a los pioneros de la música electrónica experimental (Costa Este/Oeste de USA).
 - Introducción a la síntesis de sonido electrónico: formas de ondas y técnicas básicas de síntesis electrónica.
 - Técnicas de composición drone y ambient.
   
@@ -43,12 +43,11 @@ Curso 1º. Segundo Trimestre
 Curso 1º. Tercer Trimestre
 
 **Marco teórico**
-- Creación sonora asistida por ordenador: MIDI, sincronización de sistemas y live electronics.
-- Fundamentos de programación informática y live coding. 
+- Introducción a la secuenciación electrónica y la música generativa.
+- Recorrido histórico introductorio a la electrónica minimalista.
 
 **Marco práctico** 
 - Ejercicios de creación sonora en directo con Ableton Live.
-- Programación de controladoras MIDI.
 - Organización del material sonoro para el directo A/V.
 
 **Evaluación**
@@ -59,6 +58,8 @@ Curso 1º. Tercer Trimestre
 Curso 2º. Primer Trimestre
 
 **Marco teórico**
+- Creación sonora asistida por ordenador: MIDI, sincronización de sistemas y live electronics.
+- Fundamentos de programación informática y live coding. 
 - El sonido digital: Muestreo de sonido, profundidad de bits, buffers, procesado de sonido digital.
 - Técnicas de creación de naturaleza digital: síntesis granular, data bending, estética 8-bits, glitch.
 - Técnicas de composición orientadas a texturas.
