@@ -39,7 +39,7 @@ Curso 1º. Segundo Trimestre
 **Evaluación**
 - Asignatura Agrupación: Creación colectiva a partir de una partitura gráfica que aúne los contenidos de los dos bloques.
 
-### BLOQUE 3. El ordenador como herramienta para el directo
+### BLOQUE 3. Los sonidos electrónicos.
 Curso 1º. Tercer Trimestre
 
 **Marco teórico**
@@ -47,19 +47,17 @@ Curso 1º. Tercer Trimestre
 - Recorrido histórico introductorio a la electrónica minimalista.
 
 **Marco práctico** 
-- Ejercicios de creación sonora en directo con Ableton Live.
-- Organización del material sonoro para el directo A/V.
+- Ejercicios de síntesis avanzada con modulación FM, AM, RM. 
+- Ejercicios de secuenciación generativos: IDM.
 
 **Evaluación**
 - Creación de una pieza electroacústica mixta: con grabaciones y sonidos electrónicos.
-- Improvisar composiciones sencillas con instrumentos analógicos.
+- Improvisar material sonoro con instrumentos analógicos.
 
 ### BLOQUE 4. El sonido digital.
 Curso 2º. Primer Trimestre
 
 **Marco teórico**
-- Creación sonora asistida por ordenador: MIDI, sincronización de sistemas y live electronics.
-- Fundamentos de programación informática y live coding. 
 - El sonido digital: Muestreo de sonido, profundidad de bits, buffers, procesado de sonido digital.
 - Técnicas de creación de naturaleza digital: síntesis granular, data bending, estética 8-bits, glitch.
 - Técnicas de composición orientadas a texturas.
@@ -67,17 +65,16 @@ Curso 2º. Primer Trimestre
 **Marco práctico** 
 - Introducción a Supercollider: Sintáxis básica, PlayBuffer, Señales de control (UGens).
 - Ejercicios de síntesis granular con Supercollider y MaxforLive.
+- Procesado de audio con el software Cecilia.
 
 **Evaluación**
 - Diseño y creación de un instrumento para improvisar basado en grabaciones.
 
-### BLOQUE 5. Otras exploraciones del Timbre.
+### BLOQUE 5. De lo analógico a lo digital.
 Curso 2º. Segundo Trimestre
 
 **Marco teórico**
-- Repaso de las técnicas de síntesis sonora analógica del curso pasado.
-- Ampliación a técnicas más avanzadas como: Wavetable, waveshaping, physical modeling.
-- Procesado de audio con el software Cecilia.
+- Repaso de las técnicas de síntesis sonora analógica del curso pasado adaptadas a Supercollider.
 - Técnicas de composición orientada a timbre: espectral y saturacionismo.
   
 **Marco práctico** 
@@ -87,13 +84,15 @@ Curso 2º. Segundo Trimestre
 **Evaluación**
 - Elaboración de una pieza mixta, experimental libre con las herramientas y técnicas dadas.
 
-### BLOQUE 6. Proyecto Final.
+### BLOQUE 6. Otras exploraciones del Timbre.
 Curso 2º. Tercer Trimestre
 
 **Marco teórico**
+- Ampliación a técnicas más avanzadas como: Wavetable, waveshaping, physical modeling.
 - Investigación artística sobre el proyecto sonoro final a partir de una propuesta de la escuela.
 
 **Marco práctico** 
+- Creación sonora asistida por ordenador: MIDI, sincronización de sistemas y live electronics.
 - Tutorías regulares sobre el proyecto individual.
 
 **Evaluación**
