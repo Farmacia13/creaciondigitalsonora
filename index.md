@@ -68,7 +68,7 @@ Curso 2º. Primer Trimestre
 - Procesado de audio con el software Cecilia.
 
 **Evaluación**
-- Diseño y creación de un instrumento para improvisar basado en grabaciones.
+- Improvisación con un instrumento granular basado en grabaciones.
 
 ### BLOQUE 5. De lo analógico a lo digital.
 Curso 2º. Segundo Trimestre
@@ -82,7 +82,7 @@ Curso 2º. Segundo Trimestre
 - Ejercicios de composición con código en Supercollider.
 
 **Evaluación**
-- Elaboración de una pieza mixta, experimental libre con las herramientas y técnicas dadas.
+- Agrupación: Interpretación colectiva modelo Laptop Orchestra.
 
 ### BLOQUE 6. Otras exploraciones del Timbre.
 Curso 2º. Tercer Trimestre
@@ -96,7 +96,7 @@ Curso 2º. Tercer Trimestre
 - Tutorías regulares sobre el proyecto individual.
 
 **Evaluación**
-- Proyecto personal individual.
+- Proyecto personal individual de live electronics.
 
 ## Asignatura de Agrupación
 
